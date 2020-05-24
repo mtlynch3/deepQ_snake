@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from operator import add
 from collections import deque
 
-from environment import game_ai
+from game import game_ai
 
 
 #NETWORK: input size = 11, hidden size = 256, output size = 3
