@@ -1,2 +1,2 @@
 # deepQ_snake
-To run: python3 agent.py
+To run: python3 snake.py
